@@ -1,3 +1,5 @@
+# Sources
+
 Please refer to the following sources.
 
 [1] GitHub Arthav24. (2019). Arthav24/MLX90641: Adaptation of official Melexis MLX90641 library for Raspberry Pi. GitHub. https://github.com/Arthav24/MLX90641/tree/master  
