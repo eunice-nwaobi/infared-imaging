@@ -13,6 +13,7 @@ Objective: IR-based devices have facilitated guided anatomical observation befor
 ## PART 2 - Segmentations
 ### Zharov et al.
 ![image](https://github.com/user-attachments/assets/76ffda5d-745f-44ea-9a80-7ed1dc6d8935) ![image](https://github.com/user-attachments/assets/06627593-1c8e-4b1d-b9e1-e99c9f168c35)
+
 Zharov, V. P., Ferguson, S., Eidt, J. F., Howard, P. C., Fink, L. M., & Waner, M. (2004). Infrared imaging of subcutaneous veins. Lasers in Surgery and Medicine: The Official Journal of the American Society for Laser Medicine and Surgery, 34(1), 56–61.
  
 ### From DAQ
